@@ -1,0 +1,131 @@
+Job Description:
+Job Title – Lead – Software Engineering
+
+The Purpose of This Role
+
+As a Lead Software Engineer within Quality Engineering Chapter, you will focus on building test automation solution for UX/Web and/or API testing for highly available systems. You will be working directly with other Peer Quality Engineers, Software Developers, Architects and business stakeholders to translate vision and designs into sustainable business solutions. You will be responsible for the development and maintenance of test automation solution for complex software applications, ensuring they are built with quality and adhering to the engineering practices, performance and responsive to the device accessing the application.
+
+The Value You Deliver
+
+This Lead Software Engineer within Quality Engineering Chapter will play a key role within Fidelity’s Workplace Investments Digital Platforms team.  The individual will work closely with the Scrum master, Systems analysts, Architects, Developers and other QE resources and contribute towards delivering best customer experience.
+
+Responsibilities of this role 
+
+•      Translating business and systems requirements into test strategy, test scenarios and test plans.
+
+•      Designing, developing, documenting and maintaining optimized automated test scripts.
+
+•      Rotational QE – On-call Support in Prod and Preprod infrastructure.
+
+·       Adhering to Engineering Practices in development of automation framework.
+
+·       Understand and apply BDD design concepts to test software solutions.
+
+·       Delivering accurate and maintainable code for automation and software utilities.
+
+·       Measure and Report key QE metrics.
+
+·       Accessibility Testing on web browser pages.
+
+·       Contribute towards Quality Engineering chapter initiatives.
+
+·       Collaborating with other technical resources to: 
+
+o   Suggest improvements for processes, best practices, and standards.
+
+o   Identify opportunities to improve maintainability of automation platform.
+
+The Skills that are Key to this role
+
+Apply proven analytical, problem-solving and quality assurance/testing skills to enhance and validate the quality of the software solutions.
+
+Effectively communicating with stakeholders and providing up to date status of QE delivery.
+
+Guide the team to build end to end test strategy.
+
+Bring in cloud testing expertise.
+
+Spearhead the automation coverage for a given system.
+
+Ability to quickly learn, adapt and strive to meet the needs of a fast paced, changing environment.
+
+Ability to navigate organizationally to accomplish tasks.
+
+Ability to work on multiple efforts simultaneously.
+
+Behavioral attributes 
+
+Excellent Written and verbal communication and presentation skills.
+
+Organizational skills including time, project and process management.
+
+Solid analytical, negotiation & building consensus abilities.
+
+Ability to work effectively with both business customers and project team members. 
+
+Good interpersonal, relationship management and facilitation skills.
+
+Adhere to all Fidelity Policies including the connect week / work from office schedules.
+
+Technical skills 
+
+5-6 years’ experience predominantly in software test/ Quality Engineering.
+
+Deep expertise in different types of testing.
+
+Hands-on Software Development in Test experience, which includes any of the following:
+
+3+ years of using programming languages like JavaScript/Typescript/Java.
+
+3+ years of automation scripting experience (not record and playback).
+
+Good understanding of BDD, CI-CD and DevOps concepts is mandatory.
+
+·       Expertise in following is required:
+
+o   Playwright Automation Tool
+
+o   Web Browser Testing
+
+o   Mobile Device Validation
+
+o   Validation of RESTful web services 
+
+o   Jenkins (CI/CD Pipelines) 
+
+·       Experience in the following is a strong plus:
+
+o   Graph QL
+
+o   Client, Server Architecture
+
+o   Cloud certification in (AWS/Azure)
+
+o   Service Virtualization (Wire-Mock)
+
+·       Understanding and working experience of Non-functional testing would be added plus.
+
+o   Accessibility Testing using (NVDA, JAWS)
+
+o   Chaos Testing, (Chaos Mesh, Chaos Buffet, Gremlin)
+
+o   Performance Testing (e.g. Rush Hour)
+
+How Your Work Impacts the Organization
+
+BU Overview
+
+WI (Workplace Investments) helps our customers save and invest through workplace retirement savings plans, build lifetime relationships with customers and provide employers with cost-effective, integrated employee benefit solutions. WI serves customers online, over the phone, and through a nationwide network of investor centers. WI is also committed to helping drive employee retirement readiness by delivering leading-edge financial solutions to employers, including recordkeeping, cash management products and services and personal advisory services (PAS).
+
+The Expertise We’re Looking For
+
+5-6 years’ experience predominantly in software test/Quality Engineering.
+
+Deep expertise in different types of testing.
+
+Bachelor’s/Master’s Degree in Computer Science, Computer Engineering.
+
+Expertise in Playwright Testing Framework
+
+Expertise in Typescript & Java.
+
