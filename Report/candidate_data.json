@@ -1,0 +1,15 @@
+{
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890",
+    "experience": 0.75,
+    "notice_period_favourability": 0.50,
+    "domain_knowledge_score": 0.75,
+    "education": "B.S. Computer Science",
+    "Must have skills":" The candidate lacks demonstrable experience in core non-negotiable skills such as Playwright Automation, Typescript/Java proficiency, and significant experience in software test/quality engineering, indicating a need to acquire proficiency in these areas.", 
+    "Good to have skills": "While the candidate has some web development experience, the resume does not showcase a deep understanding of BDD principles, CI/CD pipelines and cloud testing which are deemed as 'good to have' for the role.", 
+    "Optional Skills" : "The candidate lacks experience in optional areas like GraphQL, Client/Server Architecture, Accessibility Testing tools, and performance/chaos testing, that could significantly enhance his profile for this position. ",
+    "education_score" : 1.00,
+    "notice_period_favourability_score" : 0.70,
+    "Total_Candidate_Score" : 0.80
+}

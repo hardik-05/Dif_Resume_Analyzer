@@ -1,0 +1,120 @@
+{
+  "resume": {
+    "technical_skills": [
+      "Python",
+      "Django",
+      "Javascript",
+      "NodeJS",
+      "ReactJS",
+      "jQuery",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "NoSQL",
+      "HTML5",
+      "CSS",
+      "AWS",
+      "Unix",
+      "Git",
+       "Pupeteer.js",
+        "Selenium",
+        "sci-kit learn"
+    ],
+    "domain_skills": [],
+    "education": [
+      "B.S. Computer Science, University of Pittsburgh, September 2008 - April 2012"
+    ],
+    "achievements_and_other_information": [
+      "Re-architected a multi-page web app into a single page web-app, boosting yearly revenue by $1.4M",
+      "Constructed the logic for a streamlined ad-serving platform that scaled to our 35M users, improved page speed by 15%",
+      "Tested software for bugs, fixed bugs, and documented processes, increased efficiency by 18%",
+      "Built RESTful APIs that served data to the JavaScript front-end based on dynamically chosen user inputs, handled over 500,000 concurrent users",
+       "Built internal tool using NodeJS and Pupeteer.js to automate QA and monitoring of donor-facing web app, which improved CTR by 3%",
+       "Reviewed code and conducted testing for 3 additional features on donor-facing web app that increased contributions by 12%",
+       "Implemented RESTful APIs in Django, enabling analytics team to increase reporting speed by 24%",
+       "Built out a unit testing infrastructure for a client application that reduced the number of bugs reported by the client by 11% month over month",
+        "Built a full-stack web app to allow users to simulate and visualize outcomes of poker hands using open source cards.js"
+    ]
+  },
+  "job_description": {
+    "technical_skills": {
+      "primary_skills": {
+        "non_negotiable_skills": [
+          "JavaScript",
+           "Typescript",
+          "Java",
+          "automation scripting",
+          "BDD",
+          "CI-CD",
+          "DevOps",
+          "Playwright Automation Tool",
+           "Web Browser Testing",
+            "Mobile Device Validation",
+           "Validation of RESTful web services",
+          "Jenkins"
+        ],
+        "negotiable_skills": [
+            "GraphQL",
+            "Client, Server Architecture",
+            "Cloud certification (AWS/Azure)",
+            "Service Virtualization (Wire-Mock)"
+        ]
+      },
+      "optional_skills": [
+           "Accessibility Testing using (NVDA, JAWS)",
+           "Chaos Testing",
+           "Performance Testing"
+       ]
+    },
+    "domain_skills": [
+      "software test",
+      "Quality Engineering",
+      "test strategy",
+      "test scenarios",
+      "test plans",
+       "UX/Web testing",
+        "API testing"
+    ],
+    "education": [
+      "Bachelor’s/Master’s Degree in Computer Science",
+        "Bachelor’s/Master’s Degree in Computer Engineering"
+    ],
+    "achievements_and_other_information": [
+       "Building test automation solution for highly available systems",
+      "Translating vision and designs into sustainable business solutions",
+        "Delivering accurate and maintainable code for automation and software utilities",
+      "Measure and Report key QE metrics",
+        "Adhering to Engineering Practices in development of automation framework",
+        "Contributing towards Quality Engineering chapter initiatives"
+    ]
+  },
+  "similarity_scores": {
+    "technical_skills": [
+        "0.60"
+    ],
+    "domain_skills": [
+      "0.40"
+    ],
+    "education": [
+      "1.0"
+    ],
+    "achievements_and_other_information": [
+      "0.30"
+    ],
+      "detailed_technical_skills": {
+          "primary_skills": [
+            "0.60"
+        ],
+          "non_negotiable_skills": [
+            "0.65"
+          ],
+          "negotiable_skills": [
+            "0.3"
+          ],
+          "optional_skills": [
+               "0.0"
+           ]
+    }
+  }
+}
+

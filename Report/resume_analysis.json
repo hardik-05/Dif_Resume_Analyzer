@@ -1,0 +1,114 @@
+
+{
+    "resume": {
+        "technical_skills": [
+            "Python",
+            "Django",
+            "Javascript",
+            "NodeJS",
+            "ReactJS",
+            "jQuery",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "NoSQL",
+            "HTML5",
+            "CSS",
+            "AWS",
+            "Unix",
+            "Git",
+            "Pupeteer.js",
+            "Selenium",
+            "sci-kit learn"
+        ],
+        "domain_skills": [
+            "RESTful APIs",
+           "Web app development",
+            "Software testing",
+             "Ad-serving platform",
+            "Code review",
+            "Unit testing",
+             "Agile",
+            "Full-stack web app development"
+        ],
+        "education": [
+            "B.S. Computer Science, University of Pittsburgh, September 2008 - April 2012"
+        ],
+        "achievements_and_other_information": [
+            "Re-architected a multi-page web app into a single page web-app, boosting yearly revenue by $1.4M",
+            "Constructed the logic for a streamlined ad-serving platform that scaled to our 35M users, which improved the page speed by 15%",
+            "Tested software for bugs and operating speed, ﬁxing bugs and documenting processes to increase efﬁciency by 18%",
+            "Built internal tool using NodeJS and Pupeteer.js to automate QA and monitoring of donor-facing web app, which improved CTR by 3%",
+            "Reviewed code and conducted testing for 3 additional features on donor-facing web app that increased contributions by 12%",
+            "Implemented RESTful APIs in Django, enabling analytics team to increase reporting speed by 24%",
+            "Built out a unit testing infrastructure for a client application that reduced the number of bugs reported by the client by 11% month over month",
+              "Built a full-stack web app to allow users to simulate and visualize outcomes of poker hands against opponents of different play styles using open source cards.js on the front-end",
+              "Utilized sci-kit learn in Python to simulate possible outcomes under different scenarios that the user chose"
+        ]
+    },
+    "job_description": {
+        "technical_skills": [
+            "JavaScript",
+            "Typescript",
+            "Java",
+            "Playwright Automation Tool",
+            "Web Browser Testing",
+            "Mobile Device Validation",
+            "RESTful web services",
+              "Jenkins",
+            "CI/CD Pipelines",
+              "Graph QL",
+             "AWS",
+            "Azure",
+            "Wire-Mock",
+            "NVDA",
+             "JAWS",
+            "Chaos Mesh",
+            "Chaos Buffet",
+            "Gremlin",
+            "Performance Testing",
+            "Rush Hour"
+        ],
+        "domain_skills": [
+            "Test automation",
+            "UX/Web testing",
+            "API testing",
+            "Quality Engineering",
+            "Scrum",
+            "BDD",
+             "DevOps",
+            "Accessibility Testing",
+            "Cloud Testing",
+             "Non-functional testing",
+             "Performance Testing",
+            "Service Virtualization"
+        ],
+        "education": [
+            "Bachelor’s Degree in Computer Science",
+            "Bachelor’s Degree in Computer Engineering",
+            "Master’s Degree in Computer Science",
+            "Master’s Degree in Computer Engineering"
+        ],
+        "achievements_and_other_information": [
+           "Translating business and systems requirements into test strategy, test scenarios and test plans.",
+             "Designing, developing, documenting and maintaining optimized automated test scripts.",
+            "Rotational QE – On-call Support in Prod and Preprod infrastructure.",
+             "Adhering to Engineering Practices in development of automation framework.",
+             "Understand and apply BDD design concepts to test software solutions.",
+              "Delivering accurate and maintainable code for automation and software utilities.",
+             "Measure and Report key QE metrics.",
+              "Contribute towards Quality Engineering chapter initiatives.",
+             "Suggest improvements for processes, best practices, and standards.",
+              "Identify opportunities to improve maintainability of automation platform.",
+             "Excellent Written and verbal communication and presentation skills.",
+             "Organizational skills including time, project and process management.",
+             "Solid analytical, negotiation & building consensus abilities.",
+            "Ability to work effectively with both business customers and project team members.",
+             "Good interpersonal, relationship management and facilitation skills.",
+              "Adhere to all Fidelity Policies including the connect week / work from office schedules.",
+            "5-6 years’ experience predominantly in software test/ Quality Engineering.",
+           "Deep expertise in different types of testing."
+        ]
+    }
+}
+
